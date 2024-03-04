@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1" >
+        <file>Meswak.bmp</file>
+        <file>textures/Front.bmp</file>
+    </qresource>
+</RCC>
